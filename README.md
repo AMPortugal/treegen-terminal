@@ -21,15 +21,11 @@ Visualize directories in an intuitive way using either classic ASCII or enhanced
 
 Clone the repository and make the script executable:
 
-```bash
 git clone https://github.com/yourname/treegen-terminal.git
 cd treegen-terminal
 chmod +x treegen.sh
-Optional: Move it to your local binaries to make it global:
 
-bash
-Copiar
-Editar
+Optional: Move it to your local binaries to make it global:
 sudo mv treegen.sh /usr/local/bin/treegen
 ✅ Now you can run it from anywhere in your system!
 
@@ -37,16 +33,9 @@ sudo mv treegen.sh /usr/local/bin/treegen
 You have two ways to run TreeGen-Terminal:
 
 From the project folder:
-
-bash
-Copiar
-Editar
 ./treegen.sh
 If installed globally:
 
-bash
-Copiar
-Editar
 treegen
 When running, you will be prompted to:
 
@@ -58,10 +47,6 @@ Decide if you want to save the tree output into a .txt file
 
 🎨 Examples
 ASCII Mode Example:
-
-sql
-Copiar
-Editar
 /home/user/projects/
 |-- project1
 |   |-- file1.txt
@@ -69,9 +54,6 @@ Editar
 |-- project2
 `-- README.md
 Emoji Mode Example:
-
-Copiar
-Editar
 📂 project1
   📄 file1.txt
   📄 file2.txt
