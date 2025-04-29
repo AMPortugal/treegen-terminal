@@ -53,12 +53,14 @@ ASCII Mode Example:
 |   `-- file2.txt
 |-- project2
 `-- README.md
+
 Emoji Mode Example:
 📂 project1
   📄 file1.txt
   📄 file2.txt
 📂 project2
 📄 README.md
+
 🙏 Credits
 Developed by AMPortugal (Adriano Martins)
 
